@@ -1,7 +1,7 @@
 Process for generating datasets and models:
 1. Run Synthetic Data Generation notebook. This would create the underlying synthetic datasets in input
-2. Run "python query_generation.py" script. To create workloads with past region evaluations
-3. Run "python model_training.py" to train models on queries
+2. Run "python codeabase/query_generation.py" script. To create workloads with past region evaluations
+3. Run "python codebase/model_training.py" to train models on queries
 
 Accuracy Experiments:
 1. Run the Accuracy-Synthetic notebook - This would generate the first graphs 
