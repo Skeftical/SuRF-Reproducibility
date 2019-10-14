@@ -3,3 +3,5 @@ output/
 .ipynb_checkpoints/
 *.log
 models/
+*.pyc
+__pycache__/
