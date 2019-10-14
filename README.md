@@ -15,5 +15,6 @@ Performance
 2. Run training overhead python script
 
 Sensitivty Experiments
-For GlowWorm : Run the GlowWorm-Sensitivty notebook
-For Model Sensitivity : Run Testing ML Algos
+
+1. For GlowWorm : Run the GlowWorm-Sensitivty notebook
+2. For Model Sensitivity : Run Testing ML Algos
